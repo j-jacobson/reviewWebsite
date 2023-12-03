@@ -16,6 +16,15 @@ header {
     text-align: center;
 }
 
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgb(18, 21, 23);
+  color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
 .container {
     max-width: 800px;
     margin: 20px auto;
